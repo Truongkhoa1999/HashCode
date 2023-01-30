@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author JohnyDark
+ *
+ */
+module HashCodeSolution {
+}
